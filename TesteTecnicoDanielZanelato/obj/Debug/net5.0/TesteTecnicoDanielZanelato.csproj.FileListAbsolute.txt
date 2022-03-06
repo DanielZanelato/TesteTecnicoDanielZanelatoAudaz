@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.exe
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.deps.json
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.runtimeconfig.json
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.dll
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\ref\TesteTecnicoDanielZanelato.dll
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\bin\Debug\net5.0\TesteTecnicoDanielZanelato.pdb
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.dll
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\ref\TesteTecnicoDanielZanelato.dll
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.pdb
+C:\Users\Daniel\source\repos\TesteTecnicoDanielZanelato\obj\Debug\net5.0\TesteTecnicoDanielZanelato.genruntimeconfig.cache
